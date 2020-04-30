@@ -1,91 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Evan Moulson's CV
+last_updated: 2020-04-29
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Evan Moulson
+Software developer with a curious mind looking for a challenge. 
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="links">
+  <span class="email"><a href="mailto:moulson.evan@gmail.com">moulson.evan@gmail.com</a></span>
+  <span class="location"><a href="">Boston, MA and remote</a></span>
+  <span class="linkedin"><a href="https://www.linkedin.com/in/evan-moulson-a5272232/">LinkedIn</a></span>
+  <span class="github"><a href="https://github.com/emoulson">GitHub</a></span>
+  <!-- <span class="phone ec ec-iphone"></span><a href="">+1 phone</a> -->
 </div>
 
+---
+## Programming experience
 
-## Currently
+`Experienced`
+Ruby on Rails, PostgreSQL, Heroku, HTML, CSS
 
-Standing on the shoulders of giants
+`Exploring`
+JavaScript, Node, Rust, GraphQL
 
-### Specialized in
+---
+## Education and certifications
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Tufts University, 
+__B.A. Economics__
+`2010-2014`
 
+Scrum.org, 
+__<a href="https://scrum.org/badges/awards/425261">Professional Scrum Master I</a>__
+`June 2019`
 
-### Research interests
+General Assembly, 
+__Google Analytics Certification__
+`September 2015`
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+---
+## Experience
 
+### Solutions Engineer/Integrations Engineer
+`May 2019 - April 2020`
+Salsify | _Boston, MA_
 
-## Education
+- Designed, built, and troubleshooted time-sensitive and high priority customer integrations in an Agile development environment
+- Built multiple one-off solutions and reusible components in multitenant Rails applications
+- Solutions Engineering team’s representative to a company-wide security working group
+- Designed a superuser authentication mechanism to bring methods up to spec with SOC2.0 standards
+- Worked with Product teams to leverage a new API that reduced common trace and audit job times from hours to minutes
+- Mentored new hires on the team and was preparing to be an anchor for the team’s new Lisbon office when Covid-19 hit
 
-`1654-1660`
-__The King's School, Grantham.__
+### Customer Support Engineer
+`January 2018 - May 2019`
+Salsify | _Boston, MA_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Subject matter expert for APIs, regex, SSO implementations, and engineering/technical issues
+- Built Ruby and JavaScript tools to meet Customer Success needs not in the Product team's roadmap
+- Administrator of the Salsify Support Confluence and JIRA projects
 
-- Sizar
+### Senior Target Schema Analyst
+`July 2017 - January 2018`
+Salsify | _Boston, MA_
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Decreased the average ticket turnaround time from 15 days to under 2 days
+- Led and mentored a team of analysts to meet customer and internal needs on deadlines
+- Worked with Ruby and JSON
 
-- Fellow
+---
+## Voluteer work
 
+### Technical Advisor
+`April 2020`
+Children's Grief Center of New Mexico | _Albuquerque, NM_
 
+- During the Covid-19 crisis, I volunteered my time to help the Children’s Grief Center of NM to modernize their equipment, allowing them to provide services virtually
 
-## Awards
+### Web Designer
+`March 2016 - September 2016`
+Mike Connolly for State Rep. | _Cambridge, MA_
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Designed the campaign's web presence using Liquid, JavaScript, HTML, CSS, and Google Analytics
 
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<!-- ### Footer -->
 
 
