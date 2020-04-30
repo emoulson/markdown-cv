@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Markdown-cv, style your markdown resume
 tag_text: markdown-cv
@@ -8,3 +9,8 @@ markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+=======
+markdown:   kramdown
+style:  evanmoulson
+fonts: https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@600&family=Source+Code+Pro:wght@300&&display=swap
+>>>>>>> master

@@ -1,0 +1,93 @@
+I"<h1 id="evan-moulson">Evan Moulson</h1>
+<p>Software developer with a curious mind looking for a challenge.</p>
+
+<div id="links">
+  <span class="email"><a href="mailto:moulson.evan@gmail.com">moulson.evan@gmail.com</a></span>
+  <span class="location"><a href="">Boston, MA and remote</a></span>
+  <span class="linkedin"><a href="https://www.linkedin.com/in/evan-moulson-a5272232/">LinkedIn</a></span>
+  <span class="github"><a href="https://github.com/emoulson">GitHub</a></span>
+  <!-- <span class="phone ec ec-iphone"></span><a href="">+1 phone</a> -->
+</div>
+
+<hr />
+<h2 id="programming-experience">Programming experience</h2>
+
+<p><code class="highlighter-rouge">Experienced</code>
+Ruby on Rails, PostgreSQL, Heroku, HTML, CSS</p>
+
+<p><code class="highlighter-rouge">Exploring</code>
+JavaScript, Node, Rust, GraphQL</p>
+
+<hr />
+<h2 id="education-and-certifications">Education and certifications</h2>
+
+<p>Tufts University, 
+<strong>B.A. Economics</strong>
+<code class="highlighter-rouge">2010-2014</code></p>
+
+<p>Scrum.org, 
+<strong><a href="https://scrum.org/badges/awards/425261">Professional Scrum Master I</a></strong>
+<code class="highlighter-rouge">June 2019</code></p>
+
+<p>General Assembly, 
+<strong>Google Analytics Certification</strong>
+<code class="highlighter-rouge">September 2015</code></p>
+
+<hr />
+<h2 id="experience">Experience</h2>
+
+<h3 id="solutions-engineerintegrations-engineer">Solutions Engineer/Integrations Engineer</h3>
+<p><code class="highlighter-rouge">May 2019 - April 2020</code>
+Salsify | <em>Boston, MA</em></p>
+
+<ul>
+  <li>Designed, built, and troubleshooted time-sensitive and high priority customer integrations in an Agile development environment</li>
+  <li>Built multiple one-off solutions and reusible components in multitenant Rails applications</li>
+  <li>Solutions Engineering team’s representative to a company-wide security working group</li>
+  <li>Designed a superuser authentication mechanism to bring methods up to spec with SOC2.0 standards</li>
+  <li>Worked with Product teams to leverage a new API that reduced common trace and audit job times from hours to minutes</li>
+  <li>Mentored new hires on the team and was preparing to be an anchor for the team’s new Lisbon office when Covid-19 hit</li>
+</ul>
+
+<h3 id="customer-support-engineer">Customer Support Engineer</h3>
+<p><code class="highlighter-rouge">January 2018 - May 2019</code>
+Salsify | <em>Boston, MA</em></p>
+
+<ul>
+  <li>Subject matter expert for APIs, regex, SSO implementations, and engineering/technical issues</li>
+  <li>Built Ruby and JavaScript tools to meet Customer Success needs not in the Product team’s roadmap</li>
+  <li>Administrator of the Salsify Support Confluence and JIRA projects</li>
+</ul>
+
+<h3 id="senior-target-schema-analyst">Senior Target Schema Analyst</h3>
+<p><code class="highlighter-rouge">July 2017 - January 2018</code>
+Salsify | <em>Boston, MA</em></p>
+
+<ul>
+  <li>Decreased the average ticket turnaround time from 15 days to under 2 days</li>
+  <li>Led and mentored a team of analysts to meet customer and internal needs on deadlines</li>
+  <li>Worked with Ruby and JSON</li>
+</ul>
+
+<hr />
+<h2 id="voluteer-work">Voluteer work</h2>
+
+<h3 id="technical-advisor">Technical Advisor</h3>
+<p><code class="highlighter-rouge">April 2020</code>
+Children’s Grief Center of New Mexico | <em>Albuquerque, NM</em></p>
+
+<ul>
+  <li>During the Covid-19 crisis, I volunteered my time to help the Children’s Grief Center of NM to modernize their equipment, allowing them to provide services virtually</li>
+</ul>
+
+<h3 id="web-designer">Web Designer</h3>
+<p><code class="highlighter-rouge">March 2016 - September 2016</code>
+Mike Connolly for State Rep. | <em>Cambridge, MA</em></p>
+
+<ul>
+  <li>Designed the campaign’s web presence using Liquid, JavaScript, HTML, CSS, and Google Analytics</li>
+</ul>
+
+<!-- ### Footer -->
+
+:ET
